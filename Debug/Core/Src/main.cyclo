@@ -1,0 +1,10 @@
+../Core/Src/main.c:77:7:tcp_server_recv	5
+../Core/Src/main.c:124:7:tcp_server_accept	1
+../Core/Src/main.c:132:6:TCP_Server_Init	3
+../Core/Src/main.c:158:5:main	4
+../Core/Src/main.c:254:6:SystemClock_Config	3
+../Core/Src/main.c:301:13:MX_ADC1_Init	3
+../Core/Src/main.c:353:13:MX_TIM4_Init	3
+../Core/Src/main.c:402:13:MX_TIM8_Init	5
+../Core/Src/main.c:467:13:MX_GPIO_Init	1
+../Core/Src/main.c:523:6:Error_Handler	1
